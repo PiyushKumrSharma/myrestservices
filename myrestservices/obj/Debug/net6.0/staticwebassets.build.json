@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6LlGOaiAwPjWArPjW79Gu/z7btdv0rLjPg9/OQA4Avg=",
+  "Source": "myrestservices",
+  "BasePath": "_content/myrestservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "myrestservices\\wwwroot",
+      "Source": "myrestservices",
+      "ContentRoot": "C:\\Users\\hp\\OneDrive\\Documents\\myrestservice\\myrestservices\\wwwroot\\",
+      "BasePath": "_content/myrestservices",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hp\\OneDrive\\Documents\\myrestservice\\myrestservices\\wwwroot\\index.html",
+      "SourceId": "myrestservices",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\OneDrive\\Documents\\myrestservice\\myrestservices\\wwwroot\\",
+      "BasePath": "_content/myrestservices",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

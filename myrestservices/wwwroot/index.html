@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random User</title>
+</head>
+<body>
+    <h1>Random User</h1>
+    <div id="user"></div>
+
+    <script>
+        async function getRandomUser() {
+            const response = await fetch('/user', {
+                headers: {
+                    'Authorization': 'Basic ' + btoa('username:password')
+                }
+            });
+            const user = await response.json();
+            document.getElementById('user').innerHTML = `
+                    <p>Name: ${user.name.first} ${user.name.last}</p>
+                    <p>Email: ${user.email}</p>
+                    <p>Gender: ${user.gender}</p>
+                `;
+        }
+
+        getRandomUser();
+    </script>
+</body>
+</html>
