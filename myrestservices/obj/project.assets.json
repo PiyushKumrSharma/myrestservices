@@ -1027,11 +1027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Documents\\myrestservice\\myrestservices\\myrestservices.csproj",
+      "projectUniqueName": "C:\\myrestservice\\myrestservices\\myrestservices.csproj",
       "projectName": "myrestservices",
-      "projectPath": "C:\\Users\\hp\\OneDrive\\Documents\\myrestservice\\myrestservices\\myrestservices.csproj",
+      "projectPath": "C:\\myrestservice\\myrestservices\\myrestservices.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\OneDrive\\Documents\\myrestservice\\myrestservices\\obj\\",
+      "outputPath": "C:\\myrestservice\\myrestservices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
