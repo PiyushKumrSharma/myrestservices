@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6LlGOaiAwPjWArPjW79Gu/z7btdv0rLjPg9/OQA4Avg=",
+  "Hash": "RkKFP3yGvon92e0OqNa9GoP0e4axBvS+AGy7uixZzrM=",
   "Source": "myrestservices",
   "BasePath": "_content/myrestservices",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "myrestservices\\wwwroot",
       "Source": "myrestservices",
-      "ContentRoot": "C:\\Users\\hp\\OneDrive\\Documents\\myrestservice\\myrestservices\\wwwroot\\",
+      "ContentRoot": "C:\\myrestservice\\myrestservices\\wwwroot\\",
       "BasePath": "_content/myrestservices",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\hp\\OneDrive\\Documents\\myrestservice\\myrestservices\\wwwroot\\index.html",
+      "Identity": "C:\\myrestservice\\myrestservices\\wwwroot\\index.html",
       "SourceId": "myrestservices",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hp\\OneDrive\\Documents\\myrestservice\\myrestservices\\wwwroot\\",
+      "ContentRoot": "C:\\myrestservice\\myrestservices\\wwwroot\\",
       "BasePath": "_content/myrestservices",
       "RelativePath": "index.html",
       "AssetKind": "All",
